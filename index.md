@@ -11,7 +11,7 @@
       <div class="seconds">24：00</div>
     </div>
   <div align=center>
-  <iframe src=https://www.clocklink.com/html5embed.php?clock=010e&timezone=GMT-0800&color=orange&size=360&Title=Since+the+Day&Message=&Target=&From=2017,12,08,0,0,0&Color=orange style="width:360 px;height:80 px" width=0 height=0>  
+  <iframe src=https://www.clocklink.com/html5embed.php?clock=010e&timezone=GMT-0800&color=orange&size=360&Title=Since+the+Day&Message=&Target=&From=2017,12,08,0,0,0&Color=orange style="width:360 px;height:80 px" width=360 height=80>  
   </div>
 
 </body></html>
