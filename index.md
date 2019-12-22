@@ -10,10 +10,8 @@
       </div>
       <div class="seconds">24：00</div>
     </div>
-  
-</body></html>
-
-
-<div align=center>
+  <div align=center>
   <iframe src=https://www.clocklink.com/html5embed.php?clock=010e&timezone=GMT-0800&color=orange&size=360&Title=Since+the+Day&Message=&Target=&From=2017,12,08,0,0,0&Color=orange style="width:0 px;height:0 px" width=0 height=0>  
   </div>
+
+</body></html>
